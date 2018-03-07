@@ -1,2 +1,2 @@
-# Too-Small
-Small projects and daily codes
+# Daily Code
+Small projects and daily code
